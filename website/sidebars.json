@@ -1,0 +1,17 @@
+{
+	"docs": {
+		"Docs": [
+			"presentation",
+			"start"
+		],
+		"Reference": [{
+			"type": "subcategory",
+			"label": "Class",
+			"ids": [
+				"train",
+				"deploy",
+				"vizualisation"
+				]
+		}]
+	}
+}
